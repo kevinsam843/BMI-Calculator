@@ -1,4 +1,5 @@
 Simple BMI Calculator
+
 This is a simple BMI (Body Mass Index) calculator implemented in Python. It prompts the user to enter their height and weight, calculates their BMI, and provides feedback on whether they are underweight, overweight, or obese. Additionally, it gives advice on how many kilograms of weight they must gain or lose to reach the normal weight range.
 
 Example Output
